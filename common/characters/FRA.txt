@@ -1,0 +1,202 @@
+characters={
+	FRA_edouard_herriot={
+		name="Edouard Herriot"
+		portraits={
+			civilian={
+				large=""
+			}
+		}
+		country_leader={
+			desc = "	"
+			ideology=social_liberalism
+			traits={ FRA_edouard_herriot_trait }
+			expire="2020.1.1.1"
+			id = -1
+		}
+	}
+
+	FRA_frederica_de_cleves={
+		advisor={				
+			slot = high_command
+			idea_token = FRA_frederica_de_cleves
+			ledger = army
+				allowed = {
+					original_tag = FRA
+				}
+				traits = {
+					army_logistics_3
+				}
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+		}
+		name="Frederica de Clèves"
+		portraits={
+			army={
+				small=""
+			}
+		}
+	}
+	FRA_gilles_durand={
+		advisor={
+			
+			
+			slot = high_command
+			idea_token = FRA_gilles_durand
+			ledger = army
+			allowed = {
+					original_tag = FRA
+				}
+				traits = {
+					army_chief_entrenchment_2
+				}
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+		}
+		name="Gilles Durand"
+		portraits={
+			army={
+				small=""
+			}
+		}
+	}
+	FRA_carver_smith={
+		advisor={
+			
+			
+			slot = high_command
+			idea_token = FRA_carver_smith
+			ledger = army
+			allowed = {
+					original_tag = FRA
+				}
+				traits = {
+					army_regrouping_2
+				}
+				cost = 100
+				ai_will_do = {
+					factor = 1.000
+				}
+		}
+		name="Carver Smith"
+		portraits={
+			army={
+				small=""
+			}
+		}
+	}
+	FRA_oscar_hamel ={
+		advisor={
+			cost = 100
+			
+			slot = intelligence
+			idea_token = FRA_oscar_hamel 
+			ledger = army
+				allowed = {
+					original_tag = FRA
+				}
+				
+				traits = {
+					military_police
+				}
+		}
+		name="Oscar Hamel"
+		portraits={
+			army={
+				small=""
+			}
+		}
+	}
+	FRA_constantin_lyon ={
+		advisor={
+			cost = 100
+			slot = army_chief
+			idea_token = FRA_constantin_lyon
+				allowed = {
+					original_tag = FRA
+				}
+				traits = {
+					army_chief_both_1
+				}
+				ai_will_do = {
+					factor = 1.000
+				}
+		}
+		name="Constantin Lyon"
+		portraits={
+			army={
+				small=""
+			}
+		}
+	}
+	FRA_daniel_malcal={
+		advisor={
+			cost = 100
+			
+			slot = economy_minister
+			idea_token = FRA_daniel_malcal
+				allowed = {
+					original_tag = FRA
+				}
+				
+				traits = {
+					economic_minister_daniel_malcal
+				}
+		}
+		name="Daniel Malcal"
+		portraits={
+			army={
+				small=""
+			}
+		}
+	}
+	FRA_gene_smilas={
+		advisor={
+			cost = 100
+			
+			slot = minister_of_interior
+			idea_token = FRA_gene_smilas
+			allowed = {
+					original_tag = FRA
+				}
+				traits = {
+					interior_minister_gene_smilas
+				}
+				ai_will_do = {
+					factor = 1.000
+				}
+		}
+		name="Gene Smilas"
+		portraits={
+			army={
+				small=""
+			}
+		}
+	}
+	FRA_bradow_von_breisgau={
+		advisor={
+			cost = 100
+			
+			slot = head_of_government
+			idea_token = FRA_bradow_von_breisgau
+			allowed = {
+					original_tag = FRA
+				}
+				traits = {
+					bradow_von_breisgau_prime_minister
+				}
+				ai_will_do = {
+					factor = 1.000
+				}
+		}
+		name="Bradow Von Breisgau"
+		portraits={
+			army={
+				small=""
+			}
+		}
+	}
+}

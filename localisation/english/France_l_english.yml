@@ -38,3 +38,21 @@ economic_juggernaut:0 "Economic Juggernaut"
 french_dominated_military:0 "Ethnic Strifes In The Army"
 colonial_mess:0 "Colonial Mismanagement"
 general_discontent:0 "General Dissatisfaction"
+
+
+
+
+
+
+
+
+
+
+#Names for the new ideas FRA MATERIAL DESIGNER AND TRAITS
+FRA_generic_materiel:0 "Clément Development"
+artillery_producer_defense_FRA:0 "Anti-Knightmare defence"
+FRA_gen_air:0 "Space Wise"
+CAS_FRA_manufacturer:0 "Ground Support focus"
+FRA_gen_industry:0 "Malcal Banks"
+FRA_gen_tank_man_1:0 "Randle Corporation"
+knightmare_producer_mass_1:0 "Mass Production KN"
