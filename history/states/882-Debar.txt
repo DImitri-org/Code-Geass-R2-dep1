@@ -1,11 +1,7 @@
 state={
 	id=882
 	name="STATE_882"
-	manpower = 1512000
 
-
-	state_category = pastoral
-	
 	history={
 		owner = YUG
 		buildings = {
@@ -19,6 +15,8 @@ state={
 	provinces={
 		833 867 
 	}
+	manpower=252000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 	local_supplies=0.000
 }

@@ -1,7 +1,7 @@
 state={
 	id=769
 	name="STATE_769" # Burundi
-	manpower = 19311579
+	impassable = yes
 	
 	state_category = pastoral
 
@@ -20,6 +20,8 @@ state={
 	provinces={
 		2220
 	}
+	manpower=19311579
 	buildings_max_level_factor=1.000
+
 	local_supplies=0.0 
 }

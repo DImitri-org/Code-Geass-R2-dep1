@@ -1,7 +1,8 @@
-state={
+state=
+{
 	id=337
 	name="STATE_337"
-	manpower = 155400
+	manpower = 25900
 	
 	state_category = small_island
 	

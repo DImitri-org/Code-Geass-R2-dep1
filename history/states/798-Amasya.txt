@@ -1,7 +1,10 @@
 state={
 	id=798
 	name="STATE_798"
-	manpower = 3187032
+	provinces={
+		919 3807 3862 3964 11826 11844 
+	}
+	manpower = 531172
 	
 	state_category = rural
 
@@ -19,9 +22,5 @@ state={
 		add_core_of = OTT
 	}
 
-	provinces={
-		919 3807 3862 3964 11826 11844 
-	}
-	
 	local_supplies=0.0 
 }

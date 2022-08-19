@@ -1,12 +1,12 @@
 state={
 	id=90
 	name="STATE_90" # Kielce
-	manpower = 11014200
+	manpower = 1835700
 	
-	state_category = large_town # was: town
+	state_category = town
 	
 	resources={
-		steel = 8 # was: 12
+		steel=8 # was: 12
 	}
 
 	history={

@@ -1,9 +1,10 @@
-state={
+state=
+{
 	id=766
 	name="STATE_766"
-	manpower = 3399600
+	manpower = 566600
 	
-	state_category = town # was: rural
+	state_category = rural
 	
 	history= {
 		victory_points = {

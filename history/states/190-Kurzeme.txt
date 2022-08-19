@@ -2,7 +2,6 @@
 state={
 	id=190
 	name="STATE_190"
-	manpower = 1893000
 	
 	state_category = rural
 	
@@ -29,5 +28,7 @@ state={
 	}
 
 	local_supplies=5.0 
+	manpower=315500
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

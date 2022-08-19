@@ -1,9 +1,10 @@
-state={
+state=
+{
 	id=147
 	name="STATE_147"
-	manpower = 27780
+	manpower = 4630
 	
-	state_category = pastoral # was: enclave
+	state_category = enclave
 	
 	history = {	
 		owner = FIN

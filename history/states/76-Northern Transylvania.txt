@@ -2,9 +2,9 @@
 state={
 	id=76
 	name="STATE_76"
-	manpower = 14116200
+	manpower=2352700
 	
-	state_category = large_town # was: town
+	state_category = town
 	
 	history={
 		owner = ROM

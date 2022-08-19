@@ -2,12 +2,12 @@
 state={
 	id=84
 	name="STATE_84"
-	manpower = 9733800
+	manpower = 1622300
 	resources={
-		steel = 3 # was: 4
+		steel=3 # was: 4
 	}
 	
-	state_category = large_town # was: town
+	state_category = town
 
 	history={
 		owner = ROM
