@@ -90,3 +90,5 @@ recruit_character = FRA_constantin_lyon
 recruit_character = FRA_daniel_malcal
 recruit_character = FRA_gene_smilas
 recruit_character = FRA_bradow_von_breisgau
+recruit_character = FRA_claus_warwick
+recruit_character = FRA_pierre_anou
