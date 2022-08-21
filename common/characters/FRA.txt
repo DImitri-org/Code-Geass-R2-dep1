@@ -3,7 +3,7 @@ characters={
 		name="Edouard Herriot"
 		portraits={
 			civilian={
-				large=""
+				large="GFX_portrait_FRA_edouard_herriot"
 			}
 		}
 		country_leader={
@@ -31,12 +31,6 @@ characters={
 					factor = 1.000
 				}
 		}
-		name="Frederica de Clèves"
-		portraits={
-			army={
-				small=""
-			}
-		}
 		corps_commander={
 			traits={ expert_improviser brilliant_strategist ranger }
 			skill = 3
@@ -46,11 +40,17 @@ characters={
 	        logistics_skill = 5
 			legacy_id=-1
 		}
+		name="Frederica de Clèves"
+		portraits={
+			army={
+				large="GFX_portrait_FRA_Frederica_de_Cleves"
+				small="gfx/interface/ideas/FRA/FRA_Frederica_advisor_portrait.dds"
+			}
+		}
 	}
 	FRA_gilles_durand={
 		advisor={
-			
-			
+					
 			slot = high_command
 			idea_token = FRA_gilles_durand
 			ledger = army
@@ -68,7 +68,7 @@ characters={
 		name="Gilles Durand"
 		portraits={
 			army={
-				small=""
+				large="GFX_portrait_FRA_Officier_2"
 			}
 		}
 		corps_commander={
@@ -102,7 +102,7 @@ characters={
 		name="Carver Smith"
 		portraits={
 			army={
-				small=""
+				large="GFX_portrait_FRA_Officier_1"
 			}
 		}
 		corps_commander={
@@ -133,7 +133,7 @@ characters={
 		name="Oscar Hamel"
 		portraits={
 			army={
-				small=""
+				large="GFX_portrait_FRA_Oscar_Hamel"
 			}
 		}
 		corps_commander={
@@ -164,8 +164,17 @@ characters={
 		name="Constantin Lyon"
 		portraits={
 			army={
-				small=""
+				#large=""
 			}
+		}
+		field_marshal={
+			traits={ inspirational_leader brilliant_strategist }
+			skill = 5
+			attack_skill = 6
+			defense_skill = 6
+			planning_skill = 4
+			logistics_skill = 4
+			legacy_id=-1
 		}
 	}
 	FRA_daniel_malcal={
@@ -185,7 +194,7 @@ characters={
 		name="Daniel Malcal"
 		portraits={
 			army={
-				small=""
+				large="GFX_portrait_FRA_Officier_1"
 			}
 		}
 	}
@@ -208,7 +217,7 @@ characters={
 		name="Gene Smilas"
 		portraits={
 			army={
-				small=""
+				large="GFX_portrait_FRA_Gene_Smilas"
 			}
 		}
 		field_marshal={
@@ -240,7 +249,7 @@ characters={
 		name="Bradow Von Breisgau"
 		portraits={
 			army={
-				small=""
+				large="GFX_portrait_FRA_Officier_1"
 			}
 		}
 	}
@@ -248,7 +257,7 @@ characters={
 		name="Claus Warwick"
 		portraits={
 			army={
-				large="GFX_portrait_Andreas_Darlton"
+				large="GFX_portrait_FRA_Claus_Warwick"
 			}
 		}
 		corps_commander={
@@ -265,7 +274,7 @@ characters={
 		name="Pierre Anou"
 		portraits={
 			army={
-				large="GFX_portrait_Andreas_Darlton"
+				large="GFX_portrait_FRA_pierre_anou"
 			}
 		}
 		corps_commander={
